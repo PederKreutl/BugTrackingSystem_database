@@ -347,7 +347,7 @@ VALUES (2, 42);
 COMMIT;
 
 /**************************** VYBER DAT Z TABULIEK ****************************/
-/*SELECT * FROM Programator;
+SELECT * FROM Programator;
 SELECT * FROM Uzivatel;
 SELECT * FROM Tiket;
 SELECT * FROM Bug;
@@ -359,7 +359,7 @@ SELECT * FROM ProgramatorOvladaProgJazyk;
 SELECT * FROM UzivatelOvladaProgJazyk;
 SELECT * FROM TiketObsahujeBug;
 SELECT * FROM BugVModule;
-SELECT * FROM ModulVyuzivaProgJazyk;*/
+SELECT * FROM ModulVyuzivaProgJazyk;
 
 --------------------------------------------------------------------------------
 --                           Projekt (Cast 3)                                 --
